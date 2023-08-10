@@ -5,3 +5,4 @@ Problem(a): K-S statistic and Confusion matrix ; Problem(b): Sporting League pro
 # Assignment 2:
 Randomized matrix-matrix multiplication using different distribution
 # Assignment 3:
+Uniform and Importance Sampling
